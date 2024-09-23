@@ -1,6 +1,6 @@
-## Hi there 👋
-
-<!--
+Keshon Kelly👋
+Account Created on 9/22/2024 
+Created on 9/22/2024
 **1SwaggyKe/1SwaggyKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
